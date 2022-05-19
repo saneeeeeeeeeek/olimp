@@ -1,0 +1,8 @@
+D:\Aleksandr\Desktop\OLimp\OLimp\bin\Debug\OLimp.exe.config
+D:\Aleksandr\Desktop\OLimp\OLimp\bin\Debug\OLimp.exe
+D:\Aleksandr\Desktop\OLimp\OLimp\bin\Debug\OLimp.pdb
+D:\Aleksandr\Desktop\OLimp\OLimp\obj\Debug\OLimp.csproj.AssemblyReference.cache
+D:\Aleksandr\Desktop\OLimp\OLimp\obj\Debug\OLimp.csproj.SuggestedBindingRedirects.cache
+D:\Aleksandr\Desktop\OLimp\OLimp\obj\Debug\OLimp.csproj.CoreCompileInputs.cache
+D:\Aleksandr\Desktop\OLimp\OLimp\obj\Debug\OLimp.exe
+D:\Aleksandr\Desktop\OLimp\OLimp\obj\Debug\OLimp.pdb
